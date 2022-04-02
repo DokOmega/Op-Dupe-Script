@@ -1,3 +1,3 @@
 # Op-Dupe-Script
 This is a op PSX script
-Lol
+Made by Holy_cake#2775
