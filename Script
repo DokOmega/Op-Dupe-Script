@@ -1,2 +1,2 @@
-_G.Loader_Key = "Ge16314226074qx"
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ModProgrammMiked/protectedscripts/main/get-script-with-key.lua"))()
+_G.AuthKey = "915ee568-b653-4035-828f-7cd6b988c640"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/RobIoxScripts/GUI/main/load.lua"))()
